@@ -2,7 +2,6 @@
 
 ![CT216 Project](https://img.shields.io/badge/Project-CT216-blue) 
 ![MATLAB](https://img.shields.io/badge/Language-MATLAB-orange)
-![5G NR](https://img.shields.io/badge/Standard-5G_NR-green)
 
 This repository contains MATLAB implementations of Low-Density Parity-Check (LDPC) codes as specified in the 5G New Radio (NR) standard. The project demonstrates both hard decision and soft decision decoding algorithms with comprehensive performance analysis.
 
